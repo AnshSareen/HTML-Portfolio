@@ -1,2 +1,2 @@
 # HTML-Portfolio
-Portfolio Project by Angela YUuin Section4
+Portfolio Project by Angela YU in Section4
